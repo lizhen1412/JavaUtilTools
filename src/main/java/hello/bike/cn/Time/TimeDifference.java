@@ -20,7 +20,7 @@ public class TimeDifference {
          * 定义时间
          */
         Date d1 = ft.parse("2018-10-24 13:31:40");
-        System.out.println("当前时间时间戳为：" + date.getTime());
+//        System.out.println("当前时间时间戳为：" + date.getTime());
         /**
          * 计算相差时间-当前时间=相差时间
          */
